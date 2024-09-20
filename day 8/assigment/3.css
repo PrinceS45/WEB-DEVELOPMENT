@@ -1,0 +1,26 @@
+/* Qs2. Using transform, move box2 200px to the right & 200px down. Also rotate it 90deg.*/ 
+#box2 {
+width: 100px;
+height: 100px;
+
+background: red;
+transform: translate(200px, 200px) rotate(90deg);
+}
+
+ #box3 {
+
+    width: 100px; 
+    height: 100px; 
+    background: lightblue;
+    transform: skewX(30deg); 
+    } 
+    #box4 { 
+        width: 100px; 
+        height: 100px; 
+        background-image: url(salar.jfif);
+        background-size: cover;
+        box-shadow: 2px 2px 5px green ;
+        opacity: 50%;
+        } 
+    
+    
